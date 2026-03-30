@@ -1,5 +1,5 @@
 # Hi there, I'm Md Jubaer Hossain 👋
-### Mechanical Design & Simulation (CAE) Engineer ⚙️🚀
+### Mechanical & Materials Engineer ⚙️🚀
 
 I bridge the gap between creative CAD design and rigorous physics-based validation. My work focuses on developing high-performance mechanical systems that are optimized for manufacturing (DFM/DFA) and structural integrity.
 
@@ -9,10 +9,10 @@ I bridge the gap between creative CAD design and rigorous physics-based validati
 
 | Category | Tools |
 | :--- | :--- |
-| **CAD / Modeling** | SolidWorks, Autodesk Fusion 360, FreeCAD, CATIA |
-| **Simulation (CAE)** | Ansys (Static Structural, Fluent), SimScale, OpenFOAM, Abaqus |
+| **CAD / Modeling** | SolidWorks, Autodesk Fusion 360, Siemens NX, Solid Edge |
+| **Simulation (CAE)** | Ansys (Static Structural, Fluent), Siemens Star CCM+, Abaqus |
 | **Programming/Math** | Python (NumPy, SciPy), MATLAB, Excel/VBA |
-| **Manufacturing** | GD&T, Injection Molding, CNC Machining, 3D Printing (SLA/FDM) |
+| **Manufacturing** | GD&T, Injection Molding, CNC Machining, 3D Printing (SLM/FDM) |
 
 ---
 
