@@ -1,5 +1,3 @@
-# Md-Jubaer-Hossain
-This repository is to showcase the design &amp; simulation competence of Md Jubaer Hossain
 # Hi there, I'm Md Jubaer Hossain 👋
 ### Mechanical Design & Simulation (CAE) Engineer ⚙️🚀
 
