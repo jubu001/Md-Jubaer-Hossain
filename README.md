@@ -18,12 +18,12 @@ I bridge the gap between creative CAD design and rigorous physics-based validati
 
 ## 🔬 Featured Engineering Projects
 
-### 🏎️ [Project Name: e.g., Aerodynamic Wing Optimization]
+### 🏎️ Project Name: Aerodynamic Wing Optimization
 *A brief 1-sentence description of the goal (e.g., Reducing drag by 15% using CFD).*
 * **Key Skills:** CFD, Surface Modeling, Mesh Convergence.
 * [**View Project Repo**](link-to-repo) | [**Read Technical Report**](link-to-pdf-or-article)
 
-### 🏗️ [Project Name: e.g., Topology Optimized Suspension Arm]
+### 🏗️ Project Name: Topology Optimized Suspension Arm
 *Lightweighting a structural component while maintaining a Safety Factor of 2.0.*
 * **Key Skills:** FEA, Generative Design, Material Selection.
 * [**View Project Repo**](link-to-repo)
